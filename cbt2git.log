@@ -1,0 +1,14 @@
+2023-04-03 03:19:49.421867 - Initialized conversion of CBT871
+2023-04-03 03:19:49.487257 - Received CBT.V504.FILE871.PDS from FILE871.XMI 
+2023-04-03 03:19:49.489951 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE871.PDS, moved to PDS/$$$#DATE
+2023-04-03 03:19:49.491199 - Found $$NOTE01.txt (text/plain) in CBT.V504.FILE871.PDS, moved to PDS/$$NOTE01
+2023-04-03 03:19:49.492303 - Found @FILE871.txt (text/plain) in CBT.V504.FILE871.PDS, moved to PDS/@FILE871
+2023-04-03 03:19:49.493405 - Found JXMITCMD.txt (text/plain) in CBT.V504.FILE871.PDS, moved to PDS/JXMITCMD
+2023-04-03 03:19:49.493415 - Found JXMITJR.zip (application/zip), trying to unzip
+2023-04-03 03:19:49.493770 - Found JXMITJR.zip (application/zip), extracting to CBT871/JXMITJR
+2023-04-03 03:19:49.495216 - Found JXMITJR$.txt (text/plain) in CBT.V504.FILE871.PDS, moved to PDS/JXMITJR$
+2023-04-03 03:19:49.495225 - Found JXMITZIP.zip (application/zip), trying to unzip
+2023-04-03 03:19:49.495413 - Found JXMITZIP.zip (application/zip), extracting to CBT871/JXMITZIP
+2023-04-03 03:19:49.499931 - Found XMITAPK.jar (application/java-archive), moved to CBT871/XMITAPK.jar
+2023-04-03 03:19:49.500001 - Found XMITZIP.zip (application/zip), trying to unzip
+2023-04-03 03:19:49.500356 - Found XMITZIP.zip (application/zip), extracting to CBT871/XMITZIP
