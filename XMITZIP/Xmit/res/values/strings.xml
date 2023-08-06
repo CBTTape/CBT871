@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Xmit</string>
+    <string name="open_title">Select Xmit file</string>
+    <string name="open_button">Select</string>
+    <string name="save_title">Save Member</string>
+    <string name="save_button">Save</string>
+    <string name="view">View</string>
+    <string name="view_dump">View Dump</string>
+    <string name="extract">Extract</string>
+    <string name="extract_dump">Extract Dump</string>
+    <string name="members">Members:</string>
+    <string name="donate">Donate your 2 cents ...</string>
+    <string name="text">Text</string>
+    <string name="binary">Binary</string>
+    
+</resources>
