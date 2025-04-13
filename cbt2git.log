@@ -1,0 +1,10 @@
+2025-04-13 23:40:54.103780 - Received CBT.V508.FILE871.PDS from FILE871.XMI 
+2025-04-13 23:40:54.104717 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE871.PDS, moved to PDS/$$$#DATE
+2025-04-13 23:40:54.104796 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE871.PDS, moved to PDS/$$NOTE01
+2025-04-13 23:40:54.104897 - Found @FILE871.txt (text/plain) in CBT.V508.FILE871.PDS, moved to PDS/@FILE871
+2025-04-13 23:40:54.104995 - Found JXMITCMD.txt (text/plain) in CBT.V508.FILE871.PDS, moved to PDS/JXMITCMD
+2025-04-13 23:40:54.105428 - Found JXMITJR.zip (application/zip) in CBT.V508.FILE871.PDS, moved to JXMITJR
+2025-04-13 23:40:54.105529 - Found JXMITJR$.txt (text/plain) in CBT.V508.FILE871.PDS, moved to PDS/JXMITJR$
+2025-04-13 23:40:54.108491 - Found JXMITZIP.zip (application/zip) in CBT.V508.FILE871.PDS, moved to JXMITZIP
+2025-04-13 23:40:54.110045 - Found XMITAPK.jar (application/java-archive) in CBT.V508.FILE871.PDS, moved to XMITAPK
+2025-04-13 23:40:54.116175 - Found XMITZIP.zip (application/zip) in CBT.V508.FILE871.PDS, moved to XMITZIP

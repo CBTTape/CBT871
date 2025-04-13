@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/layout/main.xml
+SHA1-Digest: I+pc9trAvRy/GvsPOecN/36oeLM=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 5CYZHQPAAlinV3syhdHdrCrVEJk=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: A3GXJxawtHOgxwGO4yM/8GtmXVM=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: NOmh59aNKpwIoO4mqPavPqYOKyU=
+
+Name: resources.arsc
+SHA1-Digest: CrS4H6LUCiq9tOFtJWmYfE1XS9s=
+
+Name: classes.dex
+SHA1-Digest: m+uGdJICBSnmoLJsNechGfDKMbo=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: +IbpjGre+zbY06DUL4ymQ225krs=
+
+Name: res/layout/my_list_item_2.xml
+SHA1-Digest: QzLSbcHutRYn1mei5oxh/PZc3N8=
+
