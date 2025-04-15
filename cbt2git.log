@@ -1,10 +1,10 @@
-2025-04-13 23:40:54.103780 - Received CBT.V508.FILE871.PDS from FILE871.XMI 
-2025-04-13 23:40:54.104717 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE871.PDS, moved to PDS/$$$#DATE
-2025-04-13 23:40:54.104796 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE871.PDS, moved to PDS/$$NOTE01
-2025-04-13 23:40:54.104897 - Found @FILE871.txt (text/plain) in CBT.V508.FILE871.PDS, moved to PDS/@FILE871
-2025-04-13 23:40:54.104995 - Found JXMITCMD.txt (text/plain) in CBT.V508.FILE871.PDS, moved to PDS/JXMITCMD
-2025-04-13 23:40:54.105428 - Found JXMITJR.zip (application/zip) in CBT.V508.FILE871.PDS, moved to JXMITJR
-2025-04-13 23:40:54.105529 - Found JXMITJR$.txt (text/plain) in CBT.V508.FILE871.PDS, moved to PDS/JXMITJR$
-2025-04-13 23:40:54.108491 - Found JXMITZIP.zip (application/zip) in CBT.V508.FILE871.PDS, moved to JXMITZIP
-2025-04-13 23:40:54.110045 - Found XMITAPK.jar (application/java-archive) in CBT.V508.FILE871.PDS, moved to XMITAPK
-2025-04-13 23:40:54.116175 - Found XMITZIP.zip (application/zip) in CBT.V508.FILE871.PDS, moved to XMITZIP
+2025-04-15 06:22:04.607021 - Received CBT.V508.FILE871.PDS from FILE871.XMI 
+2025-04-15 06:22:04.618125 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE871.PDS, moved to PDS/$$$#DATE
+2025-04-15 06:22:04.618255 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE871.PDS, moved to PDS/$$NOTE01
+2025-04-15 06:22:04.618364 - Found @FILE871.txt (text/plain) in CBT.V508.FILE871.PDS, moved to PDS/@FILE871
+2025-04-15 06:22:04.618488 - Found JXMITCMD.txt (text/plain) in CBT.V508.FILE871.PDS, moved to PDS/JXMITCMD
+2025-04-15 06:22:04.618959 - Found JXMITJR.zip (application/zip) in CBT.V508.FILE871.PDS, moved to JXMITJR
+2025-04-15 06:22:04.619092 - Found JXMITJR$.txt (text/plain) in CBT.V508.FILE871.PDS, moved to PDS/JXMITJR$
+2025-04-15 06:22:04.622301 - Found JXMITZIP.zip (application/zip) in CBT.V508.FILE871.PDS, moved to JXMITZIP
+2025-04-15 06:22:04.623846 - Found XMITAPK.jar (application/java-archive) in CBT.V508.FILE871.PDS, moved to XMITAPK
+2025-04-15 06:22:04.630703 - Found XMITZIP.zip (application/zip) in CBT.V508.FILE871.PDS, moved to XMITZIP
